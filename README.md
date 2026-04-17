@@ -26,7 +26,7 @@ A modern, stable, and lightweight Linux desktop environment for Termux (Android)
 
 ```bash
 pkg install curl -y
-curl -sL https://raw.githubusercontent.com/Devashish-Rajpu/termux-desktop-v3-pro/main/setup.sh | bash
+curl -sL https://raw.githubusercontent.com/Devashish-Rajput/termux-desktop-v3-pro/main/setup.sh | bash
 ```
 
 ---
